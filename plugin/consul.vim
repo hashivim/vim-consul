@@ -9,9 +9,10 @@ let g:loaded_consul = 1
 function! s:commands(A, L, P)
   return join([
   \ "agent",
+  \ "configtest",
   \ "event",
   \ "exec",
-  \ "force-leave",
+  \ "force",
   \ "info",
   \ "join",
   \ "keygen",
@@ -22,6 +23,7 @@ function! s:commands(A, L, P)
   \ "members",
   \ "monitor",
   \ "reload",
+  \ "rtt",
   \ "version",
   \ "watch"
   \ ], "\n")
