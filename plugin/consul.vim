@@ -12,7 +12,7 @@ function! s:commands(A, L, P)
   \ "configtest",
   \ "event",
   \ "exec",
-  \ "force",
+  \ "force-leave",
   \ "info",
   \ "join",
   \ "keygen",
