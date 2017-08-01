@@ -1,3 +1,5 @@
+[![](https://img.shields.io/badge/Supports%20Consul%20Version-%3E%3D0.9.0-blue.svg)](https://github.com/hashicorp/consul/blob/v0.9.0/CHANGELOG.md)
+
 # Call For Maintainers
 
 This plugin, along with others like it, is now maintained by the
