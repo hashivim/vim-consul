@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/Supports%20Consul%20Version-%3E%3D0.9.0-blue.svg)](https://github.com/hashicorp/consul/blob/v0.9.0/CHANGELOG.md)
+[![](https://img.shields.io/badge/Supports%20Consul%20Version-%3E%3D1.3.0-blue.svg)](https://github.com/hashicorp/consul/blob/v1.3.0/CHANGELOG.md)
 
 # Call For Maintainers
 
